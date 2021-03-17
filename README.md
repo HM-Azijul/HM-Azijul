@@ -30,19 +30,4 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-<br />
-<br />
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikul-islam1&card_width=550)](https://shafikul.dev/)
-
-[website]: https://shafikul.dev/
-[twitter]: https://github.com/Shafikul-islam1/
-[youtube]:  https://github.com/Shafikul-islam1/
-[instagram]: https://www.instagram.com/shafikulislan/
-[linkedin]:https://www.linkedin.com/in/mdshafikul-islam/
-[webdevplaylist]: https://github.com/Shafikul-islam1/
-[jsplaylist]: https://github.com/Shafikul-islam1/
-[cssplaylist]: https://github.com/Shafikul-islam1/
-[reactplaylist]: https://github.com/Shafikul-islam1/
-
 
