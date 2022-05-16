@@ -3,7 +3,8 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working  Front-End Developers
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn TypeScript, Next.js, React, Nodejs 😍
+- 🥅 2022 Goals: Learn TypeScript, React, Nodejs 😍
+- 🥅 2023 Goals: Learn Next.js, Go Lang. 
 - ⚡ Fun fact: I love coding and watch movies
 
 ### Connect with me:
